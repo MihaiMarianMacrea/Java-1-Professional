@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FluxHighLevel
+comment1.params=fluxLowLevel
+comment1.target=FluxHighLevel(FluxLowLevel)
+comment2.params=
+comment2.target=void\ read()
+comment3.params=
+comment3.target=void\ write()
+numComments=4

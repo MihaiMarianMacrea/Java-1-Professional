@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ConnectionFactory
+comment1.params=tip
+comment1.target=Connection\ create(ConnectionFactory.DBType)
+numComments=2
