@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exemplu4
+comment1.params=argsA
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ Se\ primesc\ din\ consola\ urmatoarele\ comenzi\:\r\n\ \ \ \ crearefisier\ <numefisier>\ -\ crearea\ fisierului\ cu\ calea\ specificata\r\n\ \ \ \ creare\ folder\ <numefolder>\ -\ crearea\ folderului\ cu\ calea\ specificata\r\n\ \ \ \ stergere\ <numefisier>\ -\ stergerea\ fisierului\ cu\ calea\ specificata\r\n\ \ \ \ lista\ <numefolder.\ -\ listarea\ tuturor\ fisierelor\ din\ folderul\ cu\ calea\ specificata\r\n\ \ \ \ list()\ \r\n\ \ \ \ exit\ -\ inchide\ consola\ si\ aplicatia\r\n
+numComments=2

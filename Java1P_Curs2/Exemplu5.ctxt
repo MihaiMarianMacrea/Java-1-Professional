@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exemplu5
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ java.nio.file\ \ \ din\ java\ 7\ in\ sus\r\n\ \ Path\ -\ interfata\r\n\ \ Paths\ -\ clasa\ utilitara,\ ce\ ne\ ajuta\ sa\ folosim\ instante\ de\ Path\ pentru\ a\ ne\ da\ Path\ -ul\r\n\ \ \ \ \ \ \ \ \ \ \ in\ functie\ de\ sistemul\ de\ \ operare\r\n\ \ Files\ -clasa\ utilitara,\r\n
+numComments=2
