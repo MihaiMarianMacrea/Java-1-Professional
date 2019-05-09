@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Masina
+comment1.params=marca\ anFabricatie\ noua\ nrKilometri
+comment1.target=Masina(java.lang.String,\ int,\ boolean,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

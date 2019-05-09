@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exemplu1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ IO\ streams\r\n\ pachet\ java.io\r\n\ in\r\n\ \ \ low\ level\ \ \ \r\n\ \ \ \ \ \ InputStream\ (clasa\ abstracta)\r\n\ \ \ \ \ \ \ \ \ \ FileInputStream\r\n\ \ \ \ \ \ \ \ \ \ ByteArrayInputStream\ \r\n\ \ \ \ \ \ \r\n\ \ \ high\ level\ \ \ \r\n\ \ \ \ \ \ InputStreamReader\ (siruri\ de\ caractere)\r\n\ \ \ \ \ \ BufferedReader\ (siruri\ de\ caractere)\r\n\ \ \ \ \ \ ObjectInputStream\ (obiecte)\r\n\ \ \ \ \ \ DataInputStream\ \ (primitive)\r\n\ out\r\n\ \ \ \ low\ level\ \ \ \r\n\ \ \ \ \ \ \ \ \ \ OutputStream\r\n\ \ \ \ \ \ \ \ \ \ FileOutputStream\r\n\ \ \ \ \ \ \ \ \ \ ByteArrayOutputStream\r\n\ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ high\ level\r\n\ \ \ \ \ \ \ \ \ \ PrintStream\r\n\ \ \ \ \ \ \ \ \ \ PrintWriter\r\n\ \ \ \ \ \ \ \ \ \ ObjectOutputStream\r\n\ \ \ \ \ \ \ \ \ \ DataOutputStream\r\n\ \ \ \ \ \ \ \ \ \ \r\n
+numComments=2

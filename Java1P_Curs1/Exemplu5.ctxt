@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exemplu5
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Se\ citeste\ din\ consola\ un\ numar\ intreg\ nr.\r\n\ Se\ citeste\ din\ consola\ un\ nume\ de\ fisier.\r\n\ Se\ scrie\ in\ fisierul\ cu\ numele\ dat\ din\ consola\ \r\n\ nr\ numere\ intregi\ aleatoare,\ fiecare\ pe\ o\ linie\ separata.\r\n
+numComments=2
