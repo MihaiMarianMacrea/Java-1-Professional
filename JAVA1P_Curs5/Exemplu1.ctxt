@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exemplu1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ \ \ \ java.util.concurrent\r\n\ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ Executor\ \r\n\ \ \ \ \ \ \ ExecutorService\ -\ mosteneste\ Executor,\ adauga\ met\ care\ iti\ mermit\ sa\ controlezi\ flow-ul\ executiei\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ shutdown,\ alte\ tipuri\ de\ taskuri\ in\ afara\ de\ Ruannable\r\n\ \ \ \ \ \ \ ScheduledExecutorService\r\n\ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ Executors\ (clasa)\ -\ utilitara,\ cu\ met\ statice\ de\ tip\ factory,\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n
+numComments=2

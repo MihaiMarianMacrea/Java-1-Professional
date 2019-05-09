@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Produs
+comment1.params=nume\ pret\ categorie\ greutate\ stoc
+comment1.target=Produs(java.lang.String,\ double,\ java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.util.List\ getProduse()
+numComments=4

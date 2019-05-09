@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exemplu2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ \ java.util.function\r\n\ \ \ \ \ \ \ \ Consumer<T>\ ,\ o\ singura\ met\ accept\r\n\ \ \ \ \ \ \ \ BiConsumer<T,\ U>\ \ met\ apply\ ,\ prelucreaza\ doua\ date\ \r\n\ \ \ \ \ \ \ \ Supplier<T>\ ,\ furnizeaza\ ceva,\ met\ get,\ nu\ are\ parametru\r\n\ \ \ \ \ \ \ \ Predicate<T>\ ,\ testeaza\ o\ conditie\ logica\ returneaza\ boolean,\ \r\n\ \ \ \ \ \ \ \ BiPredicate<T,\ U>\ ,\ aplica\ o\ conditie\ logica\ pe\ ambii\ parametrii\ si\ returneaza\ true/false\r\n\ \ \ \ \ \ \ \ Function<T,U>,\ met\ apply,\ un\ singur\ parametru\ T\r\n\ \ \ \ \ \ \ \ BiFunction<T,\ U,\ V>\ primeste\ 2\ parametri,\ apply\ si\ returneaza\ alt\ tip\r\n\ \ \ \ \ \ \ \ UnarayOperator<T>,\ specializare\ de\ Funciton,\ in\ care\ cele\ doua\ tipuri\ generice\ sunt\ acelasi\r\n\ \ \ \ \ \ \ \ BinaryOperator<T>\ ,\ dai\ doi\ parametrii\ cu\ acelasi\ tip\ generic,\ specializare\ de\ BiFunction\r\n
+numComments=2
